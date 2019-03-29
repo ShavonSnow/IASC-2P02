@@ -6,4 +6,4 @@ Hello World! I am a IASC Student with an interest in visual storytelling. I am a
 Foregrounding the subjective experience can lead to biases in the research findings. The reliance on externally produced data sets are done out of necessity due to the sheer amount of information that is needed to be processed and interpreted in order to make conclusive findings.[Continue Reading](blog.md)
 ## Solo Presentation
 
-[Title of Presentation](reveal/index.html)
+[Digital Video Express(DIVX)](reveal/index.html)
