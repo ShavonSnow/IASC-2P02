@@ -22,4 +22,4 @@ When approaching collaborative scholarship, I try my best to contribute an equal
 When working on this project, I was the member that had to relate Scalar to our in class discussions and other tools discussed in the course. I created a few points to explain the similarities to other tools that can be found [here](https://github.com/IascAtBrock/IASC-2P02-TeamPresentations/commit/e05180449366a0327ac659373d3d38b78efcdd41). Finally I uploaded my final commit so everyone on the team knew my part of the project was done, seen [Here](https://github.com/IascAtBrock/IASC-2P02-TeamPresentations/issues/24)
 ## Research Presentation
 
-[Digital Video Express(DIVX)](reveal/index.html)
+[DIVX? A Retrospective](reveal/index.html)
