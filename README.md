@@ -10,14 +10,12 @@ This retrospective Kecha Pucha looks at the history of DIVX as a platform (from 
 How this research evolved : I took Dr. ALex Christie's feedback and incorporated a slide about Netflix's history as a DVD rental business [Here](https://github.com/ShavonSnow/IASC-2P02/commit/6215c2b3d740fc8055a520fb4df3264037cdfaf8) (Line 87). I also tried projecting some of our modern rental technologies/solutions onto the hypothetical modern iteration of DIVX by adding a slide discussing RedBox [Here](https://github.com/ShavonSnow/IASC-2P02/commit/6215c2b3d740fc8055a520fb4df3264037cdfaf8)(Line 112). Finally, expanded on my main argument pertaining to why DIVX failed by exploring the importance of choice for the end user and how DIVX's anti consumer set up was what stopped them from truly competing with their contemporaries. This can be found [Here](https://github.com/ShavonSnow/IASC-2P02/commit/6215c2b3d740fc8055a520fb4df3264037cdfaf8) (Line 150).
 
 
-DIVX Retrospective
-
 ## Academic Blog
 
 Foregrounding the subjective experience can lead to biases in the research findings. The reliance on externally produced data sets are done out of necessity due to the sheer amount of information that is needed to be processed and interpreted in order to make conclusive findings.[Continue Reading](blog.md)
 
 ## Collaborative Project
-
+For the Collaborative project, my team and I looked at the digital humanities tool Scalar. This tool allows researchers to publish media rich scholarly works in a format that is easy to use due to its design being purposefully modeled after blogs. This means that users can embed many different kinds of media into their work easily and can therefore expand on ideas and concepts that would have been otherwise very difficult to convey. My group decided to make a page detailing Spiderman (similar to a wikipedia page) and found that the tool was extremely easy to use. It also gives the user full control over how exactly the media is presented. This is an ideal tool for anyone looking to self publish.
 ## Research Presentation
 
 [Digital Video Express(DIVX)](reveal/index.html)
