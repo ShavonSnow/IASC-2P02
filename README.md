@@ -1,5 +1,5 @@
 # IASC 2P02 - Shavon White
-## About Me
+## Bio
 Hello World! I am Shavon White, a 2nd year IASC Student with an interest in visual storytelling. I find myself most interested in the media archaeology aspect of the digital humanities. Specifically, looking at alternate technological outcomes that could have existed under different circumstances really peaks my interest. The projects that I've worked on throughout my second year of the IASC program reflect this, especially my Kecha Pucha presentation. In it, I disucss the history of an experimental DVD rental service and the potential outcomes we might've seen today had it not been a commercial failure. Aside from that, I've also worked on an academic blog post outlining the importance of shared data sets and created several personal proejcts that have expanded my creative horizons by a considerable amount since the start of the school year. Going forward, I intend to expand on my portfolio by continuing to write Blog Posts about content that interests me and by creating more engaging presentations in the Kecha Pucha format. This year I was able to make an attempt at both of these formats, and I believe that doing so has given me a chance to identify my strengths and weaknesses, which will give me self improvement goals to work on as I continue my academic journey.
 
 ## Featured Project
