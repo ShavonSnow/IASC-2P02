@@ -10,7 +10,7 @@ This retrospective Kecha Pucha looks at the history of DIVX as a platform (from 
 I took Dr. ALex Christie's feedback and incorporated a slide about Netflix's history as a DVD rental business [Here](https://github.com/ShavonSnow/IASC-2P02/commit/6215c2b3d740fc8055a520fb4df3264037cdfaf8) (Line 87). I also tried projecting some of our modern rental technologies/solutions onto the hypothetical modern iteration of DIVX by adding a slide discussing RedBox [Here](https://github.com/ShavonSnow/IASC-2P02/commit/6215c2b3d740fc8055a520fb4df3264037cdfaf8)(Line 112). While RedBox isn't the only video rental service, it is one of the most commercially successful, and is arguably what DIVX envisioned themselves becoming. Finally, I expanded on my main argument pertaining to why DIVX failed by exploring the importance of choice for the end user and how DIVX's anti consumer set up was what stopped them from truly competing with their contemporaries. This can be found [Here](https://github.com/ShavonSnow/IASC-2P02/commit/6215c2b3d740fc8055a520fb4df3264037cdfaf8) (Line 150).
 
 ## Collaborative Project
-[Scalar Group Presentation](Collab)
+[Scalar Group Presentation](Collab.md)
 
 ## Research Presentation
 
