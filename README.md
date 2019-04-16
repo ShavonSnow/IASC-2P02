@@ -24,6 +24,6 @@ When working on this project, I was the member that had to relate Scalar to our 
 
 ## Academic Blog
 
-Foregrounding the subjective experience can lead to biases in the research findings. The reliance on externally produced data sets are done out of necessity due to the sheer amount of information that is needed to be processed and interpreted in order to make conclusive findings.[Continue Reading](blog.md)
+[Why We Should Keep Using Established Data Sets ](blog.md)
 
 
